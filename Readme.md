@@ -1,4 +1,4 @@
-#**Basic commands git**  
+## **Basic commands git**  
 
 1. git init
 2. git add
